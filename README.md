@@ -1,7 +1,7 @@
 Backgrid-Custom-Cells
 =====================
 
-My custom cells for Backgrid (at least one)
+Custom backgrid cell for HTML Content
 
 Go to http://backgridjs.com/ for more information on this library.
 
